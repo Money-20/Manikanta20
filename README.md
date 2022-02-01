@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Manikanta
+- 👋 Hi, I’m **Manikanta**
 - 👀 I’m interested in **Programming and a newbie**
 - 🌱 I’m currently learning **Web development and Python language**
 - 💞️ I’m looking to contribute to **open source projects**
